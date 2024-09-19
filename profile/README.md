@@ -1,4 +1,7 @@
-# ARKD Company
+<h1 align="center">ARKD Company</h1>
+
+<div align = "center"> Coming Soon... </div></br></br>
+
 
 ## Table of Contents
 - [Introduction](#introduction)
