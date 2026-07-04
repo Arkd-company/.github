@@ -24,4 +24,4 @@ Provide details on how to use the product or service, including examples if rele
 
 ## Contact Information
 - Email: hariri.ali.official@gmail.com
-- Website: [ARKD.com](https://www.arkd-food.com)
+- Website: [arkd-food.com](https://www.arkd-food.com)
